@@ -1,0 +1,35 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+.movie {
+  margin-bottom: 20px;
+}
+
+.movie h2 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.movie img {
+  width: 200px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.movie p {
+  margin-bottom: 10px;
+}
+
+.movie a {
+  display: block;
+  color: #333;
+  text-decoration: none;
+}
